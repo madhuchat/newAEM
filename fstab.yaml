@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p63260-e524717.adobeaemcloud.com/ui#/aem/madhuchat/newAEM/main"
+    url: "https://author-p63260-e524717.adobeaemcloud.com/bin/franklin.delivery/madhuchat/newAEM/main"
     type: "markup"
     suffix: ".html"
